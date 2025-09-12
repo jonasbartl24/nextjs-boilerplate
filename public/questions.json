@@ -1,0 +1,25 @@
+[
+  {
+    "id": "capek-001",
+    "topic": "Karel Čapek",
+    "type": "mcq",
+    "question": "Kdo je autorem dramatu R.U.R.?",
+    "options": ["Karel Čapek", "Josef Čapek", "Franz Kafka", "Vladislav Vančura"],
+    "answer": "Karel Čapek",
+    "explain": "R.U.R. (1920) napsal Karel Čapek a zpopularizoval slovo „robot“.",
+    "difficulty": 1
+  },
+  {
+    "id": "clz-001",
+    "topic": "Karel Čapek",
+    "type": "cloze",
+    "text": "Čapkův román Válka s ___ je satira na lidskou společnost. Slovo „robot“ se poprvé objevilo v dramatu ___.",
+    "blanks": [
+      { "id": "b1", "answers": ["mloky"] },
+      { "id": "b2", "answers": ["R.U.R.", "RUR", "Rossum's Universal Robots"] }
+    ],
+    "options": ["mloky", "R.U.R.", "Bílá nemoc", "Povídky z jedné kapsy", "Devatero pohádek"],
+    "explain": "„mloky“ a „R.U.R.“ jsou správně.",
+    "difficulty": 2
+  }
+]
