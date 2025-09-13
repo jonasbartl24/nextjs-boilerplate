@@ -21,5 +21,85 @@
     "options": ["mloky", "R.U.R.", "Bílá nemoc", "Povídky z jedné kapsy", "Devatero pohádek"],
     "explain": "„mloky“ a „R.U.R.“ jsou správně.",
     "difficulty": 2
+  },
+  {
+    "id": "capek-002",
+    "topic": "Karel Čapek",
+    "type": "mcq",
+    "question": "Ve kterém roce vyšlo drama R.U.R.?",
+    "options": ["1918", "1920", "1925", "1930"],
+    "answer": "1920",
+    "explain": "R.U.R. vyšlo roku 1920.",
+    "difficulty": 1
+  },
+  {
+    "id": "clz-002",
+    "topic": "Karel Čapek",
+    "type": "cloze",
+    "text": "Karel Čapek byl úzce spojen s prezidentem ___ G. Masarykem.",
+    "blanks": [{ "id": "b1", "answers": ["Tomáš", "T."] }],
+    "options": ["Tomáš", "Edvard", "Antonín", "Jan"],
+    "explain": "Byl přítel T. G. Masaryka.",
+    "difficulty": 1
+  },
+  {
+    "id": "capek-003",
+    "topic": "Karel Čapek",
+    "type": "mcq",
+    "question": "Který Čapkův román je alegorií na hrozbu fašismu?",
+    "options": ["Bílá nemoc", "Hordubal", "Krakatit", "Život a dílo skladatele Foltýna"],
+    "answer": "Bílá nemoc",
+    "explain": "Bílá nemoc (1937) kritizuje nastupující fašismus.",
+    "difficulty": 2
+  },
+  {
+    "id": "clz-003",
+    "topic": "Karel Čapek",
+    "type": "cloze",
+    "text": "Román ___ se zabývá objevem výbušniny a jejím nebezpečím.",
+    "blanks": [{ "id": "b1", "answers": ["Krakatit"] }],
+    "options": ["Krakatit", "Hordubal", "Povídky z jedné kapsy", "Apokryfy"],
+    "explain": "Krakatit je román o nebezpečí nové výbušniny.",
+    "difficulty": 2
+  },
+  {
+    "id": "capek-004",
+    "topic": "Karel Čapek",
+    "type": "mcq",
+    "question": "Která kniha Karla Čapka je souborem detektivních povídek?",
+    "options": ["Povídky z jedné kapsy", "Hordubal", "Válka s mloky", "Apokryfy"],
+    "answer": "Povídky z jedné kapsy",
+    "explain": "„Povídky z jedné kapsy“ vyšly roku 1929.",
+    "difficulty": 1
+  },
+  {
+    "id": "clz-004",
+    "topic": "Karel Čapek",
+    "type": "cloze",
+    "text": "Čapkův bratr ___ byl významný malíř a spisovatel.",
+    "blanks": [{ "id": "b1", "answers": ["Josef"] }],
+    "options": ["Josef", "Jan", "František", "Jaroslav"],
+    "explain": "Bratr Josef Čapek byl malíř i spisovatel.",
+    "difficulty": 1
+  },
+  {
+    "id": "capek-005",
+    "topic": "Karel Čapek",
+    "type": "mcq",
+    "question": "Který z těchto románů je trilogií o venkovském životě?",
+    "options": ["Hordubal", "Povětroň", "Obyčejný život", "Všechny tři dohromady"],
+    "answer": "Všechny tři dohromady",
+    "explain": "Hordubal, Povětroň a Obyčejný život tvoří tzv. noetickou trilogii.",
+    "difficulty": 3
+  },
+  {
+    "id": "clz-005",
+    "topic": "Karel Čapek",
+    "type": "cloze",
+    "text": "Slovo „robot“ vymyslel Čapkův bratr ___.",
+    "blanks": [{ "id": "b1", "answers": ["Josef"] }],
+    "options": ["Josef", "Karel", "Franz", "Vladislav"],
+    "explain": "Josef Čapek navrhl slovo „robot“. ",
+    "difficulty": 1
   }
 ]
